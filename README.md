@@ -1,2 +1,3 @@
-# tweet-persona-ai
-This project focuses on analyzing and replicating a specific Twitter user's unique writing style using natural language processing (NLP). By processing and fine-tuning Twitter data, this repository enables the creation of AI-generated tweets that closely mimic the user's tone, vocabulary, and thematic preferences.
+# Turkish Twitter User Personality and Writing Style Modeling
+
+This project aims to develop an AI model that mimics a Twitter user's writing style and personality based on their tweets. The model learns to replicate the user's typical tone, vocabulary, and expression style by fine-tuning a pre-trained language model.
